@@ -3,7 +3,7 @@ const ELEMENT_SELECTORS = {
     checkboxClass: '.ckGgle',
     // For old version backup
     // deleteButton: 'button[aria-label="삭제"]',
-    deleteButton: '#yDmH0d > c-wiz > c-wiz.QtDoYb.KWdEHf.u5a4d.g7of6e.maPcY > span > div.c9yG5b.txMZRd > div > div:nth-child(3) > span > button',
+    deleteButton: '#yDmH0d > c-wiz > div.u5a4d.QtDoYb.KWdEHf > div > div.c9yG5b.txMZRd > div > div:nth-child(3) > span > button',
     confirmationButton: '#yDmH0d > div.llhEMd.iWO5td > div > div.g3VIld.V639qd.bvQPzd.oEOLpc.Up8vH.J9Nfi.A9Uzve.iWO5td > div.R6Lfte.tOrNgd.qRUolc > div.OllbWe > button.VfPpkd-LgbsSe.VfPpkd-LgbsSe-OWXEXe-k8QpJ.nCP5yc.AjY5Oe.kHssdc.HvOprf'
 }
 
